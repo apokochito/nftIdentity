@@ -1,4 +1,4 @@
-# NFT Identity (iNFT)
+# TOKEN DE IDENTIDAD NO FUNGIBLE iNFT
 
 ## Introduction
 
