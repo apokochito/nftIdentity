@@ -1,23 +1,17 @@
 {
-  "name": "truffle-react-ts-template",
+  "name": "nft-identity",
   "version": "1.0.0",
-  "description": "React DApp TS Template",
+  "description": "Official Ethereum Non-Fungible Token for Digital Identity Verification of physical and moral persons through the global internet network, based on ERC-721 Non-Fungible Token Standard.",
   "keywords": [
-    "typescript",
+    "nft",
     "react",
-    "dapp"
+    "nftIdentity"
   ],
-  "bugs": {
-    "url": "https://github.com/LibertyLocked/truffle-react-ts-template/issues"
-  },
-  "author": "libertylocked",
-  "contributors": [
-    "libertylocked"
-  ],
+  "author": "Diana Elena Pinto Apolinar",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/libertylocked/truffle-react-ts-template.git"
+    "url": "https://github.com/apokochito/nftIdentity"
   },
   "scripts": {
     "start": "npm run-script dev",
