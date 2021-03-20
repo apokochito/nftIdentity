@@ -8,14 +8,14 @@ This repository contains the necessary code to create this kind of tokens.
 
 ## Keywords
 
-	- NFT
-		- "It is a unit of data on a digital ledger called a blockchain, where each NFT can represent a unique digital item, and thus they are not interchangeable." by Wikipedia.
+- NFT
+	- "It is a unit of data on a digital ledger called a blockchain, where each NFT can represent a unique digital item, and thus they are not interchangeable." by Wikipedia.
 
-	- Blockchain
-		- "It is a growing list of records, called blocks, that are linked using cryptography." by Wikipedia
+- Blockchain
+	- "It is a growing list of records, called blocks, that are linked using cryptography." by Wikipedia.
 
-	- CryptoIdentity
-		- "Online human identification on the blockchain." by Diana Pinto
+- CryptoIdentity
+	- "Online human identification on the blockchain." by Diana Elena Pinto Apolinar.
 
 ## Tools used
 
