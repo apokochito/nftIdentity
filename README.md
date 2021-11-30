@@ -1,6 +1,6 @@
 # TOKEN DE IDENTIDAD DIGITAL NO FUNGIBLE PARA PERSONA FÍSICA O PERSONA MORAL. (iNFT)
 
-**Index**   
+## Index   
 1. [Introduction](#introduction)
 2. [Keywords](#keywords)
 3. [Tools](#tools)
