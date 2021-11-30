@@ -1,12 +1,20 @@
 # TOKEN DE IDENTIDAD DIGITAL NO FUNGIBLE PARA PERSONA FÍSICA O PERSONA MORAL. (iNFT)
 
-## Introduction
+**Index**   
+1. [Introduction](#introduction)
+2. [Keywords](#keywords)
+3. [Tools](#tools)
+4. [Acknowledgements & Contributions](#acknowledgements)
+5. [References](#references)
+6. [Technical Stuff](#technical)
+
+## Introduction<a name="introduction"></a>
 
 This is an official Ethereum Non-Fungible Token for Digital Identity Verification of physical and moral persons through the global internet network, based on [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721).
 
 This repository contains the necessary code to create this kind of tokens.
 
-## Keywords
+## Keywords<a name="keywords"></a>
 
 - NFT
 	- "It is a unit of data on a digital ledger called a blockchain, where each NFT can represent a unique digital item, and thus they are not interchangeable." by Wikipedia.
@@ -17,7 +25,7 @@ This repository contains the necessary code to create this kind of tokens.
 - CryptoIdentity
 	- "Online human identification on the blockchain." by Diana Elena Pinto Apolinar.
 
-## Tools used
+## Tools<a name="tools"></a>
 
 [NPM](https://nodejs.org)
 
@@ -31,17 +39,17 @@ This repository contains the necessary code to create this kind of tokens.
 
 [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
-## Acknowledgements & Contributions
+## Acknowledgements & Contributions<a name="acknowledgements"></a>
 
 The information in this document is patented and an effort from [Diana Elena Pinto Apolinar](https://www.apokochito.dev), I welcome contributions, revisions, and feedback.
 
 Please submit a pull-request or issue if you would like to make any changes or have any comments (please don’t send pull-requests which change whitespace or line-endings etc).
 
-## References
+## References<a name="references"></a>
 
 1. Proposals, E. (2021). EIP-721: ERC-721 Non-Fungible Token Standard. Retrieved 19 March 2021, from https://eips.ethereum.org/EIPS/eip-721
 
-## Technical Stuff
+## Technical Stuff<a name="technical"></a>
 
 ### Step 1. Clone the project
 ```bash
